@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Megan Respicio</h1>
-<h3 align="center">A motivated font-end developer from California.</h3>
+<h3 align="center">A motivated, self-taught font-end developer from California.</h3>
 
 - 🔭 I’m currently working on [a landing page](https://github.com/mrespicio/landing-page)
 
