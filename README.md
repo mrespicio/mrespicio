@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Megan Respicio</h1>
 <h3 align="center">A curious and motivated person on a front-end development adventure.</h3>
 
-- 🔭 I’m currently working on [a calculaor](https://github.com/mrespicio/calculator)
+- 🔭 I’m currently working on [a calculator](https://github.com/mrespicio/calculator)
 
 - 🌱 I’m currently learning **Javascript**
 
