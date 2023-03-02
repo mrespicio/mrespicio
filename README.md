@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrespicio](https://github.com/mrespicio)
 
-- 📫 How to reach me **meganrespicio@hotmail.com**
+- 📫 How to reach me **megantr.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
