@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mrespicio](https://github.com/mrespicio)
+- 👨‍💻 All of my projects are available at [https://mrespicio.github.io/](https://mrespicio.github.io/)
 
 - 📫 How to reach me **megantr.dev@gmail.com**
 
